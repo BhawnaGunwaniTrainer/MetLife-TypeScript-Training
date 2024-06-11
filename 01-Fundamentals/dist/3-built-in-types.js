@@ -1,0 +1,11 @@
+"use strict";
+let sales = 123456789;
+console.log(sales);
+let course = "TypeScript";
+console.log(course);
+let is_published = true;
+console.log(is_published);
+let something;
+console.log(something);
+let something_new = null;
+console.log(something_new);
