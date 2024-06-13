@@ -1,0 +1,22 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server data.json --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript",
+    "TypeScript",
+    "JSON Server"
+  ],
+  "author": "Bhawna Gunwani",
+  "license": "ISC",
+  "description": "This is a test project.",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
+  }
+}

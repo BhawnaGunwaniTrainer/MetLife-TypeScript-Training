@@ -29,7 +29,7 @@ class Student extends Person {
 }
 class Teacher extends Person {
     get fullName() {
-        t1.welcomeMessage();
+        super.welcomeMessage();
         return 'Professor' + ' ' + super.fullName;
     }
 }

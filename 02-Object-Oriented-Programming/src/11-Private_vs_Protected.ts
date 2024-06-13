@@ -7,7 +7,7 @@ class Person {
         return this.firstName + ' ' + this.lastName;
     }
 
-    private welcomeMessage(): void {
+    protected welcomeMessage(): void {
         console.log('Welcome to Person Class');
     }
 

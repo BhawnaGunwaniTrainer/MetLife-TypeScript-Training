@@ -1,0 +1,42 @@
+{
+    "employees": [
+        {
+            "id": 101,
+            "firstName": "King",
+            "lastName": "Kochhar",
+            "salary": 23000,
+            "designation": "Developer"
+        },
+        {
+            "id": 102,
+            "firstName": "John",
+            "lastName": "Smith",
+            "salary": 34000,
+            "designation": "Tester"
+        },
+        {
+            "id": 103,
+            "firstName": "Sarah",
+            "lastName": "Bowling",
+            "salary": 30000,
+            "designation": "Manager"
+        }
+    ],
+    "users": [
+        {
+            "id": 101,
+            "firstName": "King",
+            "lastName": "Kochhar"
+        },
+        {
+            "id": 102,
+            "firstName": "John",
+            "lastName": "Smith"
+        },
+        {
+            "id": 103,
+            "firstName": "Sarah",
+            "lastName": "Bowling"
+        }
+    ]
+}
